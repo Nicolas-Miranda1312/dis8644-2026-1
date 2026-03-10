@@ -2,11 +2,20 @@
 
 ## presentación equuipo docente
 
-##
+aarón montoya
+matías serrano
+emiliana guerra
+
+## foco del semestre
+
+máquinas electrónicas aplicadas a sonido
+
+sintetizadores
 
 ## enlaces
 
-<https://misaa.cc>
+- <https://misaa.cc>
+- <https://www.youtube.com/watch?v=vuvckBQ1bME>
 
 ## encargo-01a
 
