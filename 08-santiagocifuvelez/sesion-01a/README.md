@@ -5,9 +5,11 @@ FACULTAD DE ARQUITECTURA, ARTE Y DISEÑO.
 
 DISEÑO GRÁFICO
 
-REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with 
+## REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with 
 Transistors” 
+
 ASIGNATURA: Taller de diseño de máquinas electrónicas 
+
 PROFESOR(ES)(A): Aarón Montoya Moraga, Matías Serrano y Emiliana 
 Guerra
 
@@ -16,7 +18,7 @@ ESTUDIANTE: Santiago Cifuentes Vélez
 CIUDAD: Santiago de Chile 
 FECHA: 12-03-25 
 
-RESUMEN 
+### RESUMEN 
 En este reporte escrito se expondrá una pequeña presentación del 
 documental “Sisters with transistors” a manera de introducción a 
 la investigación bibliográfica de una de las artistas que más me 
@@ -25,7 +27,7 @@ ello, una breve nota personal sobre este mundo “Electrónico
 Musical-Experimental”, teniendo como referentes a artistas como: 
 Arca, Grimes, Björk, Imogen Heap, Psilodump, y Safety Trance.
 
-“Electronic Music, the sound of the future” - Daphne Oram 
+### “Electronic Music, the sound of the future” - Daphne Oram 
 
 Sisters with Transistors, es un documental que relata la 
 historia biográfica de 10 mujeres ingenieras y artistas 
@@ -49,8 +51,8 @@ Teniendo en cuenta lo anteriormente mencionado, vamos a hablar
 de una mujer en el documental, la cual me llamó la atención 
 desde el primer momento que la escuché y la vi.
 
-La compositora, Suzanne Ciani. 
-Que siempre tenía una pierna en el presente y otra en el futuro. 
+La compositora, **Suzanne Ciani.** 
+**Que siempre tenía una pierna en el presente y otra en el futuro.**
 
 *Aquí va una foto
 
@@ -105,13 +107,11 @@ shrinking woman, de 1981”. (Bacanas, s. f.)
 
 Enlaces de sonidos: 
 
-Sonido de Coca – Cola: https://youtu.be/_5OXU-dAB2M?si=V0CapFhNcm9h2Vng 
+[Sonido de Coca – Cola:] <https://youtu.be/_5OXU-dAB2M?si=V0CapFhNcm9h2Vng>
 
-Sonido Colab con Atari: 
-https://youtu.be/NZjkHdX5E1I?si=C1d8lrjFHugek26G 
+[Sonido Colab con Atari:] <https://youtu.be/NZjkHdX5E1I?si=C1d8lrjFHugek26G>
 
-Video que me enamoró de Suzanne: 
-https://youtu.be/fZscRHkLMt0?si=ydJXU_Nob1dOWrOP
+[Video que me enamoró de Suzanne:] <https://youtu.be/fZscRHkLMt0?si=ydJXU_Nob1dOWrOP>
 
 Luego de trabajar exclusivamente con la Buchla durante los 70’s, 
 Ciani volvió al piano en los 80’s, dando un paso al mundo de los 
