@@ -1,28 +1,46 @@
 # sesion-01a
-Apuntes clase 100326
+*Apuntes clase 100326*
 
 Tejido y proceso humano. Bordar y tejer cables
+
 Aaron es software y Missa es máquinas
+
 El corazón del robot es Chilena. Ella hace sus sintetizadores (chip + soldaduras)
+
 La electrónica no es igual a tecnología ni computacional. Hay que saber diferenciar los términos. Tecnología aborda otros ámbitos de lo que nosotros estamos haciendo en el taller.
+
 Cristian oyarzun es académico de la escuela y referentes de los profes
+
 PCB con ensamblado es un PCBA
+
 Soporte electromagnético
+
 SMD es igual que SMD. Son dos formas distintas de escribirlo
+
 JLCPB, CPU, PWM (con tanta sigla, me doy cuenta porque me cuesta aprenderme nombres de aparatos)
+
 Chips hecho con silicio, es lo más abundante en la tierra después del Oxígeno
+
 PWM
+
 Electron viene del ámbar
+
 Electricidad amplificar
-Referentes mencionados en clase
+
+*Referentes mencionados en clase*
+
 KORG
+
 Music from outer space
 Oskitone lo dirige Tommy el cual crea instrumentos musicales y sintetizadores DIY (tuve la oportunidad de utilizar uno en el laboratorio, pero lo malo es que estaba desafinado)
+
 Koma es de berlín
+
 Tommgish
+
 Gogbotic
 
-Post clase
+*Post clase*
 
 ¿Cómo tener un buen proceso en github?
 
@@ -35,11 +53,12 @@ Todo esto bien detallado (ser detallados siempre con lo que decimos como dijo Aa
 
 Sisters with Transistors
 
-Investigación antes de ver el documental:
+*Investigación antes de ver el documental:*
 
 Investigación rápida de wikipedia menciona que es un documental realizado a mujeres poco conocidas en el área de la música electrónica en donde encontraron libertad en un mundo dominado por hombres. Aquí podemos ver a detalle como ellas trabajan ¿La gente lo percibe como un manifiesto más que una película?
 
-Después de ver el documental:
+*Después de ver el documental:*
+
 Mientras veía el documental entendía el porque me gusta la música electrónica, sobre todo la de los 80 o cercano a ello como lo es Jean luc Ponty, violinista francés que en muchas de sus obras incorpora el sintetizador y muchos instrumentos eléctricos. El álbum “cosmic messenger” estuvo en mi mente en todo momento. Destacó los temas “Cosmic Messenger” y “Ethereal Mood”
 
 El mundo seguía una misma línea, todos hacían lo mismo pero a su manera, pero a partir del siglo XX toda esa continuidad decayó y comenzó a tener matices, el silencio se rompió, todo elemento podía ser un sonido, los aviones, las sirenas, las bombas, todo podía ser utilizado para crear música, liberarse y/o expresarse, ya no solo existía el violín o el piano a la disposición para expresar algo. Esto me hace reflexionar el porque si vivo en un siglo que estos dos elementos coexisten, preferí ser intérprete de uno sobre el otro, siendo ambos actualmente de mi gusto, es una duda que ahora no tiene respuesta, pero puedo decir la viola fue el instrumento que llegó primero a mis manos cuando más la necesite. 
