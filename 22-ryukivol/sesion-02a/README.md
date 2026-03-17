@@ -1,4 +1,4 @@
-# sesion-02a-170326
+# sesion-02a-170326 ·:*¨༺ ♱✮♱ ༻¨*:·
 
 ## KIT
 - Bateria 9V
@@ -12,12 +12,13 @@
 
   ![tabla-resisencias](/imagen/ResistorColorCodes.png)
 
-### Reglas ascenciales de organización
+## Reglas ascenciales de organización
 - Positivo arriba rojo
 - Negativo abajo negro 
 
 ### Circuito paralelo 
-- 2 circuitos indemendientes donde si uno de desconecta el otro siguie en funcionamiento 
+- circuito: lazo cerrado 
+- 2 circuitos indemendientes donde si uno de desconecta (se le quita la resistencia) el otro sigue en funcionamiento 
 
 
 #### Imagenes de la clase 
