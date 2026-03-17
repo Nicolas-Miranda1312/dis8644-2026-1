@@ -17,6 +17,8 @@ Dependiendo del circuito con los colores, se veran diferentes cifras
 - 1000: Ik
 - 10.000: 10k
 
+![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
+
 La idea es que al final sepa entender y armar un esquemático
 
 Al hacer un circuito el cable negativo debe ir al lado de la resistencia y no en la misma línea, conectando el lado negativo del led al cable.
