@@ -103,9 +103,9 @@ Enlaces de sonidos:
 
 [Sonido de Coca – Cola](https://youtu.be/_5OXU-dAB2M?si=V0CapFhNcm9h2Vng=VIDEOID)
 
-[Sonido Colab con Atari:] <https://youtu.be/NZjkHdX5E1I?si=C1d8lrjFHugek26G>
+[Sonido Colab con Atari](https://youtu.be/NZjkHdX5E1I?si=C1d8lrjFHugek26G=VIDEOID)
 
-[Video que me enamoró de Suzanne:] <https://youtu.be/fZscRHkLMt0?si=ydJXU_Nob1dOWrOP>
+[Video que me enamoró de Suzanne](https://youtu.be/fZscRHkLMt0?si=ydJXU_Nob1dOWrOP=VIDEOID)
 
 Luego de trabajar exclusivamente con la Buchla durante los 70’s, 
 Ciani volvió al piano en los 80’s, dando un paso al mundo de los 
