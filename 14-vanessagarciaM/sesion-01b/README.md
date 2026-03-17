@@ -1,6 +1,6 @@
 # sesion-01b
 
-## Apuntes clase  
+## Apuntes-clase  
 
 Comenzamos la clase con una introducción para aprender el funcionamiento de GitHub y cómo utilizarlo correctamente. 
 
@@ -44,5 +44,9 @@ Internet Hall of Fame. (s. f.). Aaron Swartz. https://www.internethalloffame.org
 Riveros Koloszwa, T. (2017, enero 11). Aaron Swartz: el caso del capitalismo contra la inteligencia. La Izquierda Diario. https://www.laizquierdadiario.com/Aaron-Swartz-el-caso-del-capitalismo-contra-la-inteligencia 
 
 Vernal Vilicic, M. (2018, enero 11). Aaron Swartz: la historia de uno de los grandes genios de nuestros tiempos. Applauss. https://applauss.com/2018/01/11/aaron-swartz-historia/ 
+
+Imagenes 
+
+![aaron-sawrtz](./imagenes/aaron-swartz.jpg)
 
  
