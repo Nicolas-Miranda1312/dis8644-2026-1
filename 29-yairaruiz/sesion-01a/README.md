@@ -6,6 +6,9 @@ El documental **Sisters with Transistors** muestra la historia de varias mujeres
 
 La relación entre la música y las máquinas electrónicas permitió nuevas formas de creación, distintas a la música hecha con instrumentos tradicionales. La experimentación con estas máquinas permitió crear nuevos sonidos para la composición musical, manipulando ondas, cortando cintas y dibujando formas que luego se convertían en sonido. Muchas de estas mujeres se convirtieron en pioneras en la investigación del sonido.
 
+![DaphneOram](./imagenes/Daphne-Oram-1.jpg)
+*Imagen de Daphne Oram. Fuente: Asociación MIM.*
+
 Daphne Oram (1925–2003) nació en Devizes, Inglaterra. Desde joven mostró interés por la música y la tecnología. A los 21 años se graduó como ingeniera en sonido y se unió al **BBC Radiophonic Workshop**, donde trabajó como compositora. Fue una compositora británica interesada en la relación entre el sonido y las máquinas electrónicas, caracterizando su trabajo por la experimentación. Un ejemplo de esto es el **sistema Oramics**, que transformaba dibujos en sonidos.
 
 En 1958, Daphne Oram fue una de las fundadoras del BBC Radiophonic Workshop, un estudio de producción y experimentación de música electrónica que se convirtió en un espacio de vanguardia. En este lugar se crearon piezas musicales importantes para la época, como la sintonía de la serie Doctor Who. Además, Oram fue la primera directora del taller y la única mujer dentro de un equipo compuesto principalmente por hombres (Asociación MIM, s.f.).
