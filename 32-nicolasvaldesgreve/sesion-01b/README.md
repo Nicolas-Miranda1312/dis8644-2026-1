@@ -42,4 +42,14 @@ Aaron estaba muy interesado en el copyright, ya que este limitaba bastante el po
 
 Aaron entró a la universidad y se salió al año, ya que se puso a trabajar en Infogami, en donde conoció a los fundadores de un proyecto en el cual necesitaban ayuda, siendo éste proyecto Reddit. Rápidamente Reddit se vuelve famoso, ya que convierte en un lugar bastante libre en donde la gente puede discutir sobre temas variados, publicar memes, contenido ofensivo, etc. 
 
-Debido a su pasión por querer crear un mundo en donde la información pudiese ser pública, Aaron creó Watchdog.net en donde se podía recolectar y visibilizar información sobre politicos, y un proyecto llamado "Open Library" (openlibrary.org) el cual era una wiki editable de una página por libro, combinando así la información de distintas personas.
+Debido a su pasión por querer crear un mundo en donde la información pudiese ser pública, Aaron creó Watchdog.net en donde se podía recolectar y visibilizar información sobre politicos, y un proyecto llamado "Open Library" (openlibrary.org) el cual era una wiki editable de una página por libro, combinando así la información de distintas personas. Luego de crear estas webs, Aaron escribió el "Guerilla Open Acces Manifesto", en donde habla sobre sus ideas políticas y llama a la liberación y acceso libre a los articulos científicos. Luego, Aaron se empezó a interesar bastante en Jstor (librería digital), en donde se dio cuenta que las personas de MIT tenían acceso a Jstor y vio esto como una oportunidad, por lo que agarró una pc Acer, se metió a la network de MIT, y empezó a descargar una cantidad masiva de archivos y fue detenido por ello. Años después, se le añadieron nuevos cargos lo cual aumentó la posible pena de Aaron por 50 años, solo por descargar muchos archivos lo cual era ridículo. Aaron era un activista antisistémico, luchó en contra de la ley SOPA (Stop Online Piracy), ayudó a lanzar el Comité de Campaña de Cambio Progresivo, participó en la fundación de Demand Progress, y creó una plataforma para que los periodistas se pudieran comunicar de manera segura. Debido a los 50 años de pena que le estaban imponiendo (un millón de dólares en multa), Aaron no pudo soportar la presión del Estado y decidió por terminar con su vida, solo por querer crear un mundo mejor en donde el conocimiento es un derecho y no un privilegio que solo puedes conseguir si pagas monetariamente por ello.
+
+---
+
+**Bibliografía**
+
+Vernal, M. (2018, Enero 11). _Aaron Swartz: La historia de uno de los grandes genios de nuestros tiempos_ <https://applauss.com/2018/01/11/aaron-swartz-historia/>
+
+Swartz, A. (2008, Julio). _Manifiesto por la Guerrilla del Acceso Abierto (GOA)_ <https://universoabierto.org/2020/03/03/manifiesto-por-la-guerrilla-del-acceso-abierto-goa/>
+
+Amadeu da Silvera, S. (2013, Junio). _Aaron Swartz y las luchas por la libertad del conocimiento_ <https://sur.conectas.org/es/aaron-swartz-y-las-luchas-por-la-libertad-del-conocimiento/>
