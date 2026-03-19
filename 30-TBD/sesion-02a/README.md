@@ -120,3 +120,85 @@ VCC **voltaje positivo** manera conceptual de decir voltaje de alimentacion (Cor
 
 GND Ground 0 volts Tierra **voltaje negativo**
 
+## encargo-02a
+
+1. hacer los ejercicios anteriores y documentar los resultados.
+2. elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto de grabación, revisar presentaciones en vivo de esa época y contrastar con actuales. explicar qué escuchas en el disco, qué te llama la atención, describir en largo, no en corto.
+3. lo mismo que 2 pero con un disco de LCD Soundsystem.
+
+---
+
+### Desarrollo encargo
+
+### Ejercicio 1
+
+## Componentes usados
+
++ 3 resistencias 220
+
++ 1 resistencia 1k
+
++ 5 jumpers
+
++ Alimentacion
+
++ 4 leds
+
+| loquitoportilocoloco  | D1    | D2    | D3    | D4    |
+| ---                   | ---   | ---   | ---   | ---   |
+| R1                    |   0    |   0    |    0   |   0    |
+| R2                    |    0   |   0    |   0    |    0   |
+| R3                    |    1   |   1    |    0   |   1    |
+| R4                    |    1   |   1    |   1    |   0    |
+| R5                    |    1  |   1   |  1    |  0   |
+
+### Ejercicio 2
+
+## Componentes usados
+
++ 4 resistencias 220
+
++ 4 resistencia 1k
+
++ 7 jumpers
+
++ Alimentacion
+
++ 3 leds
+
+| loquitoportilocoloco | D1 | D2 | D3 |
+| -------------------- | -- | -- | -- |
+| R1                   |  1  |  0  |  1  |
+| R2                   |  1  |  0  |  1  |
+| R3                   |  1  |  0  |  1  |
+| R4                   |  1  |  0  |  1  |
+| R5                   |  0  |  1  |  1  |
+| R6                   |  1  |  1  |  1  |
+| R7                   |  1  |  1  |  1  |
+| R8                   |  1  |  1  |  0  |
+
+### Ejercicio 3
+
+## Componentes usados
+
++ 6 resistencias 220
+
++ 4 jumpers
+
++ Alimentacion
+
++ 4 leds
+
+| loquitoportilocoloco | D1 | D2 | D3 | D4 |
+| -------------------- | -- | -- | -- | -- |
+| R1                   |  1  |  1  |  1  |  1  |
+| R2                   |  1  |  1  |  1  |  1  |
+| R3                   |  0  |  0  |  0  |  0 |
+| R4                   |  1  |  1  |  1  |  1  |
+| R5                   |  1  |  1  |  1  |  1  |
+| R6                   |  1  |  1  |  1  |  1  |
+
+**(Colaboré con mi compañero Tomás catrileo para desarrollar esta parte del encargo)**
+
+## Desarrollo encargo parte 2
+
