@@ -211,3 +211,10 @@ GND Ground 0 volts Tierra **voltaje negativo**
 
 ## Desarrollo encargo parte 2
 
+Avances para la epoca (1975) en Disco *radio-activity* es que fue el primero completamente electronico de Kraftwerk.
+
+Estaba en un punto donde la tecnología emepzó a reemplazar completamente a los humanos y los instrumentos tradicionales por tecnológicos, se implementaron varios elementos que llaman la atención y hasta el día de hoy se siguen usando con las mejoras respectivas como los sintetizadores, vocoders y percusión electrónica. Además de la producción independiente se su estudio Kling Klang que permitió crear un sonido totalmente nuevo con el enfoque central del disco en la energia nuclear y la radio, que muestran lo interesados que estaban por los avances tecnologicos de esta epoca. Y estos sonidos no solo marcaron el albúm sino que también marcaron las bases de la música electrónica moderna.
+
+Esto tuvo influencia de Alemania post guerra como con el orden, frialdad, tecnología y orden con sonidos minimalistas y repetitivos como los de un robot con presición mecanica, en las presentaciones en vivo antes eran muy estáticos como sin cambio de imágen robotica y sin interacción con el público en cambio ahora existen visuales 3D con alteración de escenario o que la imagen juegue con la estructura del escenario con shows mas inmersivos y de interación con el publico y el uso de tecnología moderna como camaras, drones, luces de mayor calidad para comodidad del espectador.
+
+En el disco escucho como golpes ritmicos y mecanicos, sonidos de televisor antiguo, voces con cambios radicales y muy duros en su hablado, estática, instrumentos y melodías con las que se pueden sentir mas agradebles algunos momentos y otros mas tensos como de aburrimiento dependiendo de los agudos y graves con repeticion, mezclas de ritmos de fondo con resultados al azar que tiran las maquinas en su estado natural, como si se rayaran algunos discos y efectos como si actualmente se pusieran filtros de voz o de sonido
