@@ -237,7 +237,8 @@ En un circuito paralelo, la corriente tiene varios caminos, por lo que los compo
 
 ## The Man-Machine — Kraftwerk
 
-![The Man-Machine](imagenes/machine-kraftwerk-album.png)
+![The Man-Machine](imagenes/machine-kraftwerk-album.png) ![kraftwerk](imagenes/kraftwerk-.png) 
+
 
 ### Creación de un lenguaje completamente único y extraño
 The Man-Machine de Kraftwerk me llamo mucho la atención, porque siento que acá ya tienen totalmente claro su estilo. El disco suena súper casi mecánico, pero no tan aburrido. Es como si todo estuviera sumamente calculado: los ritmos, los sintetizadores, las voces. Canciones como “The Robots” o “The Model” son pegajosas pero igual frías, como si estuvieran hechas por robts sin emoción humana, y eso es justamente lo interesante. Es algo que no se escucha todos los días, y al ser algo completamente extraño, lo hace sumamente genial.  
@@ -246,7 +247,7 @@ The Man-Machine de Kraftwerk me llamo mucho la atención, porque siento que acá
 ### Contexto histórico y estético
 El contexto en donde se sitúa de esta banda igual influye mucho, porque vienen de la Alemania de los 70, en Düsseldorf, con toda esta idea de modernidad, industria y tecnología. Eso se nota en el sonido y en cómo se presentan. No es solo música, es un concepto completo.  
 
-### Presentaciones en vivo (época original)
+### Presentaciones en vivo 
 En vivo en esa época eran súper particulares. No habían expresiones, ni movimientos, tocaban como si fueran parte de una máquina o como si fueran robots. Se vestían todos iguales, con trajes y corbata. No se sabe si están tocando personales reales o robots.  
 
 ### Visuales y estética artística
