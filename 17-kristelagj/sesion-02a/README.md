@@ -128,6 +128,12 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | R2            |    G5,D5     |  
 | R5            |    G12,G14   | 
 
+Ejercicio 2
+
+1. Primero realice el circuito central y funciono solo.
+2. La gracia de este ejercicio es que las resistencias vayan una tras la otra
+3. Después no se que paso que no prendian las luces al conectarlo todo (se me quemaron 2)
+4. Es tan sensible que con solo posicionar las resistencias por encima de donde deben ir se encienden los LED
 
 
 
