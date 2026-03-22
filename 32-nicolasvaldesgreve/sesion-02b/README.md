@@ -18,7 +18,12 @@ Luego de introducirnos los capacitores y el chip, nos enseñaron cómo utilizar 
 
 ![Circuito con chip NE555P](./imagenes/circuito-ne555.jpg)
 
-
+| Letra | Significado |
+| --- | --- |
+| R(n) | Resistencia, el (n) es el número para poder identificarla, mientras que al lado de esto se indica de cuánto es la resistencia (1k, 10k en éste caso)|
+| C(n) | Capacitor/Condensador, el (n) es el número para poder identificarlo, mientras que al lado de esto se indica de cuánto es el capacitor/condensador (10mF, 100mF en este caso)|
+| D | LED |
+| +9 | Positivo de la batería 9V |
 
 ---
 
