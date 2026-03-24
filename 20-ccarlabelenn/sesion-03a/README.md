@@ -10,4 +10,7 @@
 ## sonamos 
 
 + transducción: conversión de una señal, estímulo o energía de una forma a otra
-!
+
+circuito A-estable con parlante 
+
+![circuito-a-estable](./imagenes/circuito-a-estable.jpeg)
