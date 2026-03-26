@@ -135,4 +135,4 @@ Hace una referencia a lo espectral en sus sonidos, aunque no propiamente es por 
 
 Era mucho más facil parametrizar los sonidos digitales.
 
-Esta música no es reconocida a gran escala en el mismo Chile donde hubieron pioneros desde hace tiempo pero todavia queda un gran camino por explorar tomando a grandes referentes que han dejado un gran legado y experimentación en esta area.
+Esta música no es reconocida a gran escala en el mismo Chile donde hubieron pioneros desde hace tiempo pero todavia queda un gran camino por explorar tomando a grandes referentes que han dejado un gran legado y experimentación en esta área.
