@@ -51,6 +51,21 @@ Se puede tener dos fines en caso del libro entregar potencia o minimizar, que en
 
 Con mi grupo tomamos la decisión de tener un proceso personal ya que la movilización hacia la universidad el día en que podíamos todos, se nos complicó. Mis compañeros lo hicieron primero en tinkercad y les funciono. Yo hice lo mismo, pero como aún no entiendo muy bien los esquemáticos, hice lo que pude y no pude seguir, me sesgue en que no puedo entender bien los esquemáticos. Quiero resolver bien ahora que estoy más consciente de esto que seguir forzando a seguir en algo que no comprendo. Tengo que darle más tiempo si es que quiero aprender más. Me sesgo muy facíl. 
 
+![prueba]
+
+Cómo leer un esquemático
+Reconocer cada componente
+→ Los símbolos de los componentes son la mitad de la historia. Cada símbolo debe acompañarse de un nombre y un valor
+→ **Valores:** definir qué es un componente, importante
+ ↳ Resistores, capacitores e inductores: el valor nos dice cuántos ohm, farad o henrios tiene
+ ↳ Circuito integrado = nombre del chip (555)
+→ **Nombre:** 1 o 2 letras y un número
+ ↳ Tipo de componente
+ R = resistores → R1, R2, R3
+ C = capacitores → C1, C2, C3
+ U = circuito integrado → U1, U2, U3
+Transistores = Q
+El nombre nos ayuda a hacer referencia a partes en el esquemático
 
 https://cursos.mcielectronics.cl/2019/06/18/como-leer-un-esquematico/
 
