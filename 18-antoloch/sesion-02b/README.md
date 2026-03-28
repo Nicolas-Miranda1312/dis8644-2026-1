@@ -49,9 +49,13 @@ V = I \cdot R
   - 100 µF → parpadeo lento.  
 - Sustituir una resistencia por un potenciómetro para variar la velocidad del parpadeo.  
 - Usar un fotoresistor para que la luz ambiente controle la frecuencia del parpadeo.
-
----
-
+![materiales-nuevos](./imagenes/materiales-nuevos.jpeg)
+![100uf](./imagenes/100uf.jpeg)
+![10uf](./imagenes/10uf.jpeg)
+![1uf](./imagenes/100uf.jpeg)
+![555](./imagenes/555.jpeg)
+![lenteja](./imagenes/lenteja.jpeg)
+![trabajo-en-clases](./imagenes/trabajo-en-clases.jpeg)
 ## Conceptos para no olvidar :)
 - **Protoboard**: tablero de pruebas que permite armar circuitos sin soldar.  
 - **Polaridad**: fundamental en capacitores electrolíticos y diodos.  
