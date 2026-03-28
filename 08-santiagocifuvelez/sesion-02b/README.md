@@ -17,6 +17,6 @@ Para comenzar, vamos a aprender los nombres de las diversas y nuevas herramienta
 ![Nombre elementos](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02b/imagenes/img1.jpg)
 
 ## 2.	El chip 555
-![555]()
+![555](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02b/imagenes/img3-1.jpg)
 
 
