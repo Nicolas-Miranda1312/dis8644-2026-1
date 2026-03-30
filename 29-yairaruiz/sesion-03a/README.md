@@ -30,8 +30,12 @@ La señal:
 + “Suaviza” o “filtra” la señal:
 + elimina lo constante
 + deja pasar el cambio
-  
-imageen clase
+
+![apunte01](./imagenes/apunte01.jpg)
+
+![c2](./imagenes/c2.jpg)
+
+![c1](./imagenes/c1.jpg)
 
 ## Apuntes del documental Variaciones espectrales ##
 
