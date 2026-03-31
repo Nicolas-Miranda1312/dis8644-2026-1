@@ -40,3 +40,6 @@ As a way of sumary se vería de esta manera:
 
 -Resistencia en serie → suma → aumenta resistencia   
 -Resistencia en paralelo → divide → disminuye resistencia.
+
+## 2.	Circuito MONOSTABLE
+## 3.	Ejercicio; unión de ASTABLE y MONOSTABLE 
