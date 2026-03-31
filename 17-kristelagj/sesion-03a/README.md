@@ -14,14 +14,13 @@
 - Virtual VCT
 - Midi
 
-
 ### clase
 
 - Misaa
 
 **10k:** LDR (fotoresistor)
 
-Condensador: (agregar foto)
+Condensador: componente electrónico pasivo que almacena energía. Suaviza el voltaje.
 
 **Circuito astable:** sin estabilidad
 
@@ -31,9 +30,7 @@ Cambiar el potenciador para que sea más agudo.
 
 **Victorian oscillator:** equilibrio precario
 
-La resistencia RA debe ser mayor a 1K, si no segunda el 555*** (colocar foto)
-
-- *Macumbista:** scound box
+- **Macumbista:** scound box
 
  - John Cage
 
@@ -41,8 +38,9 @@ Hace las cosas y disfruta
 
 Entre más resistencia, menos cantidad de energía
 
-Condensador es como un torniquete
+Condensador es como un torniquete (suavizador)
 
+![555](imagenes/555.jpeg)
 
 ### imagenes de proceso
 

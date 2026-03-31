@@ -3,17 +3,25 @@
 
 ### pre-clase (teloneo Aaron)
 
+**radio kexp:** clipping
+
+Micrófono en el hielo
+
+Misa: fue a la antártida para un proyecto con Ingrid Wildit merino
+
+Departamento de estudios humanísticos (DEH)
+
 ### clase
 
-- Primera parte: Aaron 
+- Misaa
 
-- Segunda parte: Misaa
+En esta clase nos dedicamos más a realizar circuitos, solo me resultó el primer ejercicio de la primera parte de la clase y lo pude resolver medianamente sola. Leí bien la mayoría de las partes, pero cabe destacar que aprendimos a realizar un circuito monoestable que sirve para mostrar luz y el astable es el que logra hacer sonido. 
 
 ### imagenes de proceso
 
 ### post-clase
 
-Me quedo pendiente de ver el documental. Actualizado en la bitácora anterior. 
+Me quedo pendiente de ver el documental. Aún pendiente!
 
 Aproveche mi fin de semana para poder ir a “nada como una metáfora” realizado por el club sonoro deportivo. Lo genial es que sin pensarlo me encontré con un compañero de clases ahí y la experiencia se hizo más cálida. 
 
