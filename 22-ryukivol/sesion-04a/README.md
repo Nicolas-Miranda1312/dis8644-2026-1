@@ -4,7 +4,8 @@
 - repaso 555
 - diferentes unidades
 - pagina falstad https://www.falstad.com/circuit/
-- patas o pins 555 
+- patas o pins 555
+- nuevo circuito mstable -> astable
 
 ### Unidades 
 - 0,00,000,000,001 Pico 
