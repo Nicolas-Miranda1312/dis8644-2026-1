@@ -2,6 +2,9 @@ name: comprobar nombres de archivos
 
 on:
   pull_request:
+  push:
+    branches:
+      - main
 
 jobs:
   nombres:
