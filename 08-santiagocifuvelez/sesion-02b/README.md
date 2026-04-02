@@ -30,7 +30,8 @@ Para comenzar, vamos a aprender los nombres de las diversas y nuevas herramienta
 A manera de conclusión, la luz LED puede parpadear o muy rápido o muy lento, y esto depende de varias cosas; de la resistencia de entrada y de la capacitancia del capacitor/condensador electrolítico polarizado. 
 
 ## 4.	Ejercicio de práctica (Monostable)
-![Ejercicio de practica]()
+![Ejercicio de practica](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02b/imagenes/img5.png)
+
 ## 5.  10 preguntas 
 
 Fin c:
