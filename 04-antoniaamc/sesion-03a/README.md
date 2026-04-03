@@ -1,12 +1,6 @@
 # sesion-03a
 
-Recomendaciones: Editorial matar Chile
-
-
-+
-
-+
-
+Recomendaciones: Editorial matar Chile  
 
 **Los multivibradores astables y monoestables son circuitos generadores de pulsos, comúnmente basados en el _Chip integrado 555_.**
 
