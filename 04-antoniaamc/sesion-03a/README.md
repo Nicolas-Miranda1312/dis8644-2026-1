@@ -79,7 +79,7 @@ Influenciado por el budismo zen y la filosofía oriental, Cage concebía la mús
 
 fuentes: [John Cage Trust](https://johncage.org/), [John Cage - Percussive Arts Society](https://pas.org/john-cage/) 
 
-[John Cage 4’33 - "Everything we do is music”](https://www.youtube.com/watch?v=TOgrWX5_dS4)
+*performance* [John Cage 4’33 - "Everything we do is music”](https://www.youtube.com/watch?v=TOgrWX5_dS4)
 
 
 **Comentario que rescaté del video (@Warlesc):**
