@@ -78,9 +78,13 @@ Analizar y reconocer chips, condensadores y resistencias.
 ### ¡Qué vi!
 
 + Condensador electrolítico: solo vi uno (CS 100 16V); destacaba porque es redondo y sobresale.
+![electrolitico](./imagenes/electrolitico.jpeg)
 + Condensadores cerámicos: hay demasiados. Intenté contarlos, pero perdía la cuenta. Para reconocerlos, me fijé en que fueran pequeños rectángulos, con una franja de color café, beige o gris, y que no tienen números.
+![condensadores](./imagenes/condensadores.jpeg)
 + Resistencias: también hay muchas. Son similares a los capacitores, pero de color negro o café oscuro, y estas sí tienen números, aunque no todas, ya que algunas son muy pequeñas.
+![resistencias](./imagenes/resistencias.jpeg)
 + Chips: hay de distintos tamaños y formas. Logré reconocer 6, principalmente fijándome en sus patitas.
+![chips](./imagenes/chips.jpeg)
 
 Y como extra, investigué un poco sobre otros elementos que iba viendo y que llamaban mi atención: un diodo, transistores, RAM, puertos USB y HDMI, un cristal oscilador de 24 MHz y un jack DC. 
 
