@@ -1,4 +1,4 @@
-# sesion-01a
+ # sesion-01a
 
 Martes 10 de Marzo, 2026.
 
@@ -17,7 +17,7 @@ sonido ≠ musica (la musica es como un parte del sonido pero la especificacion 
 ### profesores
 
 - Aarón Montoya Moraga (Pronombres neutros - elle). [Github](https://github.com/montoyamoraga) / [PáginaWeb](https://montoyamoraga.io/) / IG: [@montoyamoraga](https://www.instagram.com/montoyamoraga/) / correo: <aaron.montoya@mail.udp.cl>
-- Matías Serrano (Alias "Misa"). [PáginaWeb](https://misaa.cc/about.html) / IG: [@misaa.cc](https://www.instagram.com/misaa.cc/) / correo: <matias.serrano@mail.udp.cl>
+- Matías Serrano (Alias "Misa"). [Github](https://github.com/misaaaaaa) / [PáginaWeb](https://misaa.cc/about.html) / IG: [@misaa.cc](https://www.instagram.com/misaa.cc/) / correo: <matias.serrano@mail.udp.cl>
 
 ### Ayudante
 
