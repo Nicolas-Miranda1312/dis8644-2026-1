@@ -19,29 +19,8 @@ Compuerta nand
 annas-archive
 cuando x = 0 → no oscila
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+andreas siagian: touch & moist synthesizer 
+que significa synthesizer 
 
 
 
