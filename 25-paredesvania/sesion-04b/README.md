@@ -8,6 +8,6 @@ La NAND hace siemore uno, a no ser que le den dos unos, ahí, da cero.
 
 `Cuando x vale 0 no hay oscilación`
 
-![operador](./imagenes/operador.HEIC)
+![operador](./imagenes/operador.heic)
 
 El condensador/capacitor ataja la velocidad (guardia del metro en la puerta)
