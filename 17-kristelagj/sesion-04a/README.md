@@ -239,5 +239,6 @@ Debes tener cuidado con qué manilla manejas ya que a pesar de ser dos zonas dis
 
 ----------
 
+Active line drive ALD-1 es un preamplificador (Un preamplificador, también llamado preamp es un dispositivo electrónico que mejora, limpia y finalmente da forma a la señal producida por un micrófono, instrumento musical u otro dispositivo de producción de audio. Además de aumentar el volumen, mejora la claridad, reduce el ruido y puede añadir "color" o calidez al tono)
 
 
