@@ -57,19 +57,25 @@ Este sistema establece un umbral para definir cuando algo está encendido y cuan
 Por ejemplo: Si estamos jugando Minecraft tenemos 3 posibilidades 
 
 a. Estar quieto (0)
+
 b. Caminar (0.5)
+
 c. Correr (1)
 
 Y estas se definen según cuanta presión apliquemos al botón _W_, siendo 0 no presionar y 1 tener la tecla hasta el fondo, un comparador normal entendería que:
 
 a. Estar quieto (0 - 0.4)
+
 b. Caminar (0.5)
+
 c. Correr (0.6 - 1)
 
 Por lo que si jugamos normalmente y tenemos ligeras variaciones como 0.4 a 0.6 tendriamos a _Steve_ pasando de caminar a correr a estar quieto de manera intermitente e irregular. Lo más normal es querer variar estos umbrales tan sensibles, ahí entra en juego el Shmitt Trigger, quien establecería límites _más reales_, es decir que entendería que:
 
 a. Estar quieto (0 - 0.2)
+
 b. Caminar (0.3 - 0.7)
+
 c. Correr (0.8 - 1)
 
 Estableciendo un rango más amplio y reduciendo la sensibilidad.
