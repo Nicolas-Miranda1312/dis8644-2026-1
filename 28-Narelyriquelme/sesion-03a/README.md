@@ -1,5 +1,5 @@
 # sesion-03a
-## Apuntes
+## Apuntes 24 mar
 ### chip 555
 
 ![gif 555](./imagenes/timer-chip555.gif) 

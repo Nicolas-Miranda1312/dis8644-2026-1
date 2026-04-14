@@ -1,5 +1,5 @@
 # sesion-05a
-### Apuntes
+### Apuntes 07 abr
 No pude asistir a esta clase pero le pedi a mis compañeros que me pasaran sus apuntes y me explicaran un poco lo que fue esta clase
 ## Resumen de Clase: Síntesis, Lógica y Hardware Modular
 La síntesis sonora es la creación de audio mediante señales eléctricas controladas por voltaje (VC - Voltage Control).
@@ -13,11 +13,11 @@ La síntesis sonora es la creación de audio mediante señales eléctricas contr
 |SAW    |    Como los dientes de un serrucho |   Sonido "violento" o agresivo; tiene mucha información armónica. |     
 |SQE    |    Bloques: sube, se mantiene, baja |   Es la que han estado trabajando. Sonido hueco y robótico.  |   
 
-imagen ondas
+![Ondas](./imagenes/ondas.jpg)
 
 + **Lógica Digital (Comuertas)**
 
-imagen compuertas
+![Compuertas](./imagenes/compuertas.png)
 
 + **VCV Rack:** VCV Rack es un simulador de código abierto del estándar Eurorack que permite conectar módulos virtuales como osciladores (VCO) y amplificadores (VCA) mediante cables digitales para comprender el flujo de la señal (Signal Flow). Una ruta básica conecta el VCO al VCA y este al módulo de audio, permitiendo manipular el volumen en tiempo real sin interrumpir el sonido. La diferencia fundamental es que, mientras VCV Rack ofrece un entorno "ideal" sin fallos, el trabajo físico en protoboard con chips como el CD4093 y el LM386 presenta desafíos reales como el ruido eléctrico, la polaridad de los componentes y el desgaste de la batería.
 
@@ -29,6 +29,7 @@ La electrónica digital utiliza la lógica para procesar información sonora. Ba
 
 ## Implementación Física: El Chip CD4093 (NAND)
 El CD4093 es el "corazón" del sintetizador modular que estamos construyendo.
+![Chip](./imagenes/chip-4093.png)
 + Arquitectura: Es un chip de 14 patas que contiene 4 compuertas NAND independientes.
 + Compuerta NAND: Solo entrega un "0" si todas sus entradas son "1". Es la base para crear osciladores.
 + Conexiones de alimentación (Vital): Según el diagrama de clase:

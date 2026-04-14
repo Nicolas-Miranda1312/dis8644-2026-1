@@ -1,5 +1,5 @@
 # sesion-04a
-## Apuntes
+## Apuntes 31 mar
 ### Repaso chip 555 con circuito astable
 + circuito astable
   

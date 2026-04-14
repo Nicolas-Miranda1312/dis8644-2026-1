@@ -1,5 +1,5 @@
 # sesion-02a
-## Apuntes 
+## Apuntes 17 mar
 ### resistencias
 Las resistencias o resistores son los componentes más comunes en la electrónica. Su función principal es oponerse al paso de la corriente eléctrica, actuando como un "embudo" o un limitador.
 
