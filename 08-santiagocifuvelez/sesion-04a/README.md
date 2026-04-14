@@ -16,6 +16,23 @@ Se basa en potencias de 10.
 Para eso debemos entender que:  
 ![notación cientifica](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/img1.png)
 
+**Resistencias** 
+Las resistencias suelen tener valores grandes, así que usan exponentes positivos.  
+Prefijos más usados:  
+Prefijo	Símbolo	Equivalencia  
+kilo	kΩ
+
+mega	MΩ  	
+
+**Condensadores (F)**  
+Los condensadores trabajan con valores muy pequeños, así que usan exponentes negativos.  
+Prefijos más usados:  
+Prefijo	Símbolo	Equivalencia  
+micro	µF	10−610^{-6}10−6  
+nano	nF	10−910^{-9}10−9  
+pico	pF	10−1210^{-12}10−12  
+
+
 
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
 ![cascada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/imgastableymonostable.jpg)
