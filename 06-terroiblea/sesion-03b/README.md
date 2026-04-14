@@ -58,6 +58,6 @@ Al recibir un pulso externo, genera un único pulso cuya duración depende de la
 ### Atari Punk Console
 
 También se armo el circuito Atari Punk Console, basado en el temporizador 556.
-Se hizo en parejas (en mi caso como esa clase no fui en la clase siguiente, sesión 04a los chiquillos (la vania y el nico) me mostraron lo que habían hecho y como sonaba y después lo realice por mi cuenta). 
+Se hizo en parejas (en mi caso como esa clase no fui en la clase siguiente, sesión 04a los chiquillos (la vania y el nico) me mostraron lo que habían hecho y como sonaba y después lo realice por mi cuenta). Me explicaron que el fotoresistor no funcionaba así que lo cambiaron por un potenciómetro que tampoco funcionó  la primera vez pero era porque usaron el potenciometro incorrecto (no el que es de 100k). Algunos de los cambios que se hicieron fueron en relación a los capacitores ya que con eso se pueden cambiar los sonidos que se producen (que se hagan más agudos o parecidos), por ejemplo con el capacitor de 100uf suena como una nave espacial (como disparos sjsjsj) y con el capacitor de 10uf suena mas agudo, en mi caso me gustó más el de la nave espacial (es chistoso hacer sonidos que se pueden relacionar a cosas ya existentes). 
 
 ![atari](./imagenes/atari.png)
