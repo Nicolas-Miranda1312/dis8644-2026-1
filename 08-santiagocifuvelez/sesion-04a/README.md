@@ -32,6 +32,10 @@ micro	µF	10−610^{-6}10−6
 nano	nF	10−910^{-9}10−9  
 pico	pF	10−1210^{-12}10−12  
 
+(10^3, 10^6) - Resistencia (números grandes)  
+(10^{-6}, 10^{-9}) - Condensador (números pequeños)  
+µ, n, p	- Siempre condensadores  
+k, M	- Siempre resistencias  
 
 
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
