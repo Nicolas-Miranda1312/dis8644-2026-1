@@ -1,27 +1,57 @@
 # sesion-05b
 
-ux es la disciplina que se enfoca en cómo se siente una persona al interactuar con un producto, sistema o servicio, ya sea digital o físico
+## UX (User Experience)
 
-push turn move libro que explora el diseño de interfaces en instrumentos de música electrónica 
+UX es la disciplina que se enfoca en cómo se siente una persona al interactuar con un producto, sistema o servicio, ya sea digital o físico.
 
-tenemos que ser conscientes para la construcción del interfaz 
+## Push Turn Move
 
-tenemos que hacer un interfaz de cartón, serán dos cajas de cartón 
+Push Turn Move es un libro que explora el diseño de interfaces en instrumentos de música electrónica, mostrando cómo interactuamos con perillas, botones y controles.
 
-campo de sentido aka nosotros decimos que es aesthetic
+## Diseño de interfaz
 
-podemos hacer un reloj con un 555 astable y lento o con un 4093
+Al diseñar una interfaz, es importante ser conscientes de cómo las personas la van a usar e interpretar.
 
-contar binarios
+Campo de sentido, que relacionamos con lo aesthetic, es decir, la forma en que percibimos visual y sensorialmente una interfaz.
 
-usar 4017 un contador un secuenciador
+Como ejercicio, debemos construir una interfaz física utilizando cajas de cartón.
 
-inhibir
+## Componentes y conceptos
 
-555, 4093 y 4017 son chips
+- 555 (timer): se puede usar en modo astable para generar un reloj (clock), ya sea rápido o lento.
 
-### ejercicio en clase clock generator
+- 4093: también puede utilizarse para generar señales de reloj.
 
-junto a anays cornejo hicimos el ejercicio que misa explico en clase, que consiste en un circuito secuenciador, donde las luces led prenden en distinto tiempo. Al inicio no funcionaba y no entendiamos porque, preguntamos a Aaron e hicimos unos cambio, tampoco funcionaba. Llego Misa, lo reviso, hicimos cambios y nada. Al final, era el chip que estaba muerto. Pusimos otro chip 4017 y lo logramos :).
+- 4017: contador/secuenciador que permite activar salidas de forma secuencial.
+
+Contar en binario es representar números utilizando únicamente dos símbolos: 0 y 1 (sistema de base 2), en lugar de los diez dígitos del sistema decimal (0-9).
+
+Es el lenguaje base de las computadoras, donde cada posición representa una potencia de dos incrementando el valor al añadir más dígitos (bits) a la izquierda. 
+
+Cómo funciona el conteo binario:
+
+- 0: 0
+
+- 1: 1
+
+- 2: 10 (Se acaban los símbolos, se añade otra posición)
+
+- 3: 11
+
+- 4: 100
+
+- 5: 101
+
+- 6: 110
+
+## Ejercicio en clase: Clock Generator
+
+Junto a Anays Cornejo, realizamos un ejercicio explicado por Misa en clase. Este consistía en construir un circuito secuenciador donde varios LEDs se encienden en distintos tiempos.
+
+Al principio el circuito no funcionaba y no entendíamos por qué. Consultamos a Aarón e hicimos algunos cambios, pero siguió sin funcionar. Luego Misa revisó el circuito, hicimos más ajustes y aún así no obteníamos resultados.
+
+Finalmente, descubrimos que el problema era el chip: estaba dañado. Reemplazamos el 4017 por uno nuevo y el circuito funcionó correctamente.
+
+### Resultado
 
 https://github.com/user-attachments/assets/c30e37ca-c760-4df6-aeda-6f777cbaafc6
