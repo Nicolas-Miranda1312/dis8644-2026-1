@@ -36,3 +36,7 @@ Es el módulo que genera el sonido base (ondas como seno, cuadrado, diente de si
 **LFO (Oscilador de baja frecuencia)**  
 Oscilador de baja frecuencia.  
 No se usa directamente para escuchar sonido, sino para modular otros parámetros (como vibrato, trémolo o movimiento en filtros). Genera señales lentas que crean cambios en el tiempo.
+
+As a way of sumary:
+
+![vcvrackkkk](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img1.png)
