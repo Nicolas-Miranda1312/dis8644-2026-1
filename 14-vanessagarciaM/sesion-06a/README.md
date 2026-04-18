@@ -38,4 +38,6 @@ Spoiler, no funcionó.
 Las primeras dos partes del circuito estaban bien, funcionaban correctamente. En la tercera y cuarta hubo problemas. Solo se producía un sonido plano, sin variaciones, y los potenciómetros no estaban funcionando correctamente. Sonó un momento y luego dejó de hacerlo. El chip 4093 se quemó, lo cambiamos y volvió a funcionar, pero repetimos el proceso tres veces y el sonido seguía siendo el mismo. 
 
 No logramos la variación de sonido que estuviera coordinada con los LED. Fue muy frustrante no obtener buenos resultados y también bastante triste. 
+![circuito](./imagenes/circuitoo.jpeg)
+
 
