@@ -10,4 +10,4 @@ Hoy día en clase vimos lo siguiente en clase:
 Period.  
 
 ## 3.	Resultado de trabajo en clase. 
-https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05b/imagenes/secuenciador-as-an-img.jpeg
+![clock y secuenciador](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05b/imagenes/secuenciador-as-an-img.jpeg).
