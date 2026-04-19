@@ -22,7 +22,7 @@ A partir de estas bellas frases, nos mostró ejemplos sobre esto como lo es gaud
 
 Esta clase fue de solo hacer, nos entregaron el fé de erratas y manos a la obra. 
 
-![fe de erratas](/imagenes/fe-de-erratas.jpg) 
+![fe de erratas](imagenes/fe-de-erratas.jpg)
 
 
 
