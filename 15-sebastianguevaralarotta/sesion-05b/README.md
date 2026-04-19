@@ -1,5 +1,5 @@
 
-# sesion-05a  
+# sesion-05b  
 ## Martes 07 de Abril del 2026  
 ### Sintetizador Modular y Amplificación
 
