@@ -16,7 +16,6 @@ Gracias a esto, no sé si lo he mencionado antes, pero hay algo que me ha estado
 - **ST vincent:** guitarra para no molestar los pechos. Otro instrumento que está hecho para hombres, como lo es el celular, ya que está hecho al estándar de mano del hombre, hombre refiriéndose al sexo masculino)
 - compo de sentido
 
-
 ### clase
 
 - Misaa
@@ -32,8 +31,6 @@ Hoy implementamos el chip 4017
 ![4017](imagenes/circuito-integrado-cd4017.jpg)
 
 - Contador de décadas es de Q0 a Q9
-
-### imagenes de proceso
 
 ### post-clase
 
