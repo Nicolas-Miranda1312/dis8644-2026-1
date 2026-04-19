@@ -59,3 +59,5 @@
 - La lógica binaria (0/1) se traduce en ondas cuadradas, esenciales para el control de sonido.  
 - El Schmitt Trigger es fundamental para limpiar señales y evitar ruido en el control.
 
+  FALTA IMAGENES!!!!!!!
+
