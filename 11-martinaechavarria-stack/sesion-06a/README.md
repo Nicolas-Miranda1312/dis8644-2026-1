@@ -12,6 +12,6 @@ Lo habíamos hehco con los cables de color desordenado, lo volvimos a hacer arre
 Intentamos cambiar los chips ya que seguido se nos queman o se no echan a perder. Aún así no hubo diferencia en el resultado.
 Nuestras sospechas es que la parte que no estaba funcionando era la del chip nes555, por más que revisaramos mil veces seguía igual. Igualmente habíamos propuesto trabajar en otro circuito para la solemne que tiene unos compuestos muy parecidos, es más, la única diferencia es que no tiene leds.
 
-![Proyecto pensado a hacer](./imagenes/NANDulator_circuito.gif)
+![Proyecto pensado a hacer](./imagenes/NANDulatorcircuito.gif)
 
 [video del circuito](https://photos.app.goo.gl/w4QpfzAPTkAFwsRP7)
