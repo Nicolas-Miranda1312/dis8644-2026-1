@@ -12,15 +12,12 @@ En esta sesión deje de pensar los circuitos solo como algo que funciona o no, y
 
 Pensar en UX implica observar la relación entre acción y respuesta. Cuando alguien interactúa con el circuito, debería poder anticipar el resultado.
 
-La lógica ideal es:
 
 acción → respuesta → comprensión
 
 Si esa relación no es clara, el sistema se vuelve confuso aunque funcione correctamente.
 
 ---
-
-## campo de sentido
 
 El “campo de sentido” se refiere a cómo se percibe el sistema en su conjunto. No es solo lo que hace, sino cómo se siente.
 
