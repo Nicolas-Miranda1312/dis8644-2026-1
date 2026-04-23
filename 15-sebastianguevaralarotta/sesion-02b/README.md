@@ -67,6 +67,8 @@ Aplicaciones comunes:
 - Relojes digitales
 - Sistemas de temporización
 
+<img width="3024" height="4032" alt="circuito555" src="https://github.com/user-attachments/assets/dc47aea8-f15f-40af-8dd1-90d62330c938" />
+
 ---
 
 ### Conclusión
