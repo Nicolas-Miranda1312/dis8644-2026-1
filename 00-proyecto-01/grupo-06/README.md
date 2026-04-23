@@ -25,7 +25,7 @@ Hola! Bienvenidxs a la presentación de nuestro solemne 01.
 Antes de partir, quiero agradecerles a mis compañeras por su esfuerzo y compromiso con el proyecto.  
 Hicimos algo mágico.
 
-Veamos lo que nos espera a continuación:  
+Comencemos:  
 
 ## descripción del sintetizador realizado
 
