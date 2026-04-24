@@ -45,7 +45,7 @@ con los chips que más tuvimos problemas fueron el 4093 y el 386, ya que al inic
 
 cuando volvimos al LID, Aarón nos dijo que probáramos los potenciómetros que se encontraban en el circuito del chip 4093 de manera independiente, pero no entendimos mucho, así que nuestra compañera Cami nos ayudó a entender cómo se tenían que intercambiar los cables que estaban en cada potenciómetro para poder probar el sonido de cada uno de manera independiente. cuando lo hicimos, nos sorprendió que todos sonaban, pero al momento de conectar todo dejaban de funcionar. como teníamos clases, tuvimos que abandonar el trabajo por unas horas y nuestros compañeros Vania y Nicolás se volvieron a ofrecer para revisar nuestro trabajo, ya que el de ellos ya estaba listo, así que les agradecimos el apoyo y les dejamos nuestro trabajo mientras nosotros estábamos ausentes. cuando volvimos, nuestros compañeros nos informaron que el sintetizador finalmente estaba sonando, pero que tal vez sería buena idea cambiar el valor de los capacitores que teníamos en cada potenciómetro del 4093, ya que teníamos muchos condensadores de alto valor (10 uF, 100 uF) y esto afectaba al sonido que emitía nuestro sintetizador, por lo que decidimos cambiarlos todos a capacitores de 1 uF.
 
-![imgenes](./imagenes/sintetizador-sin-caja.jpeg)
+![imagenes](./imagenes/sintetizador-sin-caja.jpeg)
 
 + adjuntamos video de nuestro sintetizador funcionando: <https://youtu.be/AOrCcJQTMjA>
 
