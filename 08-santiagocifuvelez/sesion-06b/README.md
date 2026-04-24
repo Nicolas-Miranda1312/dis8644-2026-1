@@ -37,3 +37,7 @@ Esquemático formalizado:
 ![yo en el metro con precarias en la mano](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/subway-mut.jpeg)
 ![proceso de trabajo en el cc](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/working-in-the-mut.jpeg)
 ![Cuando terminamos, y todo estaba bien](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/precarias-funciono.jpeg)
+
+**She's alive:**
+
+https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/precarias-con-vida.mp4
