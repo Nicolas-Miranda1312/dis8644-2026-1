@@ -24,4 +24,18 @@ Como se puede observar anteriormente, tenemos un gráfico con unos umbrales que 
 
 ## 3 Aplicación en trabajo en clase para creación de instrumento x proyecto solemne 01.
 
+Omg! This part excites me so much.
+Primeramente, el profesor Aaron y Misa, nos dieron una breve introducción de lo que haría el chip 4017:
+
+https://youtu.be/4uwkeWHWyvI?si=4ms5kG2YXochIlF_
+
+Ahora miremos el esquemático:   
+Como se puede ver, el instrumento que estamos construyendo para el solemne 01 de Taller de máquinas, consta de 4 chips:   
+- 555 clock.  
+- 4017 secuenciador.  
+- 4093 sintetizador.  
+- 386 amplificador.  
+(Antes de continuar, quiero mencionar que somos 3 personas talentosas en el grupo.).
+
+
 ![esquema](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/esquema.png)
