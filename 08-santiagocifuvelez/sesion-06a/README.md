@@ -38,7 +38,8 @@ Como se puede ver, el instrumento que estamos construyendo para el solemne 01 de
 - 555 clock.  
 - 4017 secuenciador.  
 - 4093 sintetizador.  
-- 386 amplificador.  
+- 386 amplificador.
+  
 (Antes de continuar, quiero mencionar que somos 3 personas talentosas en el grupo.).
 
 Cada integrante del grupo comenzó a armar una parte del esquema, y luego lo unimos todo.
