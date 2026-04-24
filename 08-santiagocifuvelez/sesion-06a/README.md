@@ -18,3 +18,4 @@ El Schmitt Trigger es un circuito comparador con histéresis. Se usa para conver
 Es un sistema interno que tienen los chips, que les permite pelear con las imperfecciones del mundo real. Gráficamente, se vería algo así: (miremos el siguiente punto).
 
 ## 2 Como trabaja el “Schmitt Trigger”.
+![histéresis](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/histeresis-explanation.jpg)
