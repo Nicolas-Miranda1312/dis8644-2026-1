@@ -12,8 +12,7 @@ Al hablar como grupo sobre lo que queríamos hacer, pensamos en distintos synths
 
 El "NANDulator - PHOBoS" utiliza un 4093* (4 Schmitt Triggers) para generar las oscilaciones. Dentro del esquemático en la pagina no muestran como amplificar la señal para que se pueda escuchar, por lo que decidimos añadir un LM386, conectando el pin 4 del 4093 al pin 3 del LM386. Eso si al utilizar el synth, sentimos que faltaba algo para poder controlar el volumen además de tener un filtro, por lo que añadimos un este circuito de "https://generalguitargadgets.com" entre la salida del 4093 y el AMP (Pin 4 del 4093 a la barra del filtro donde se encuentra el R6 y C6). Consiste en 2 filtros R/C y un linear pot (todo conectado a un potenciómetro) que permite controlar el Dry/Wet del filtro, actuando como un EQ modular. 
 
-En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin 4-5-6 cambiamos el potenciómetro de 500k a 100k. El condensador conectado al pin 12 usamos un condensador de 47nf en vez de 470nf. Todos los diodos los remplazamos por diodos zener. En el filtro, cambiamos la resistencia de 39k por una de 47k y el potenciómetro de 100K a uno de 1M, más que nada por la accesibilidad a materiales en el laboratorio. Intentamos usar 
-
+En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin 4-5-6 cambiamos el potenciómetro de 500k a 100k. El condensador conectado al pin 12 usamos un condensador de 47nf en vez de 470nf. Todos los diodos los remplazamos por diodos zener. En el filtro, cambiamos la resistencia de 39k por una de 47k y el potenciómetro de 100K a uno de 1M, más que nada por la accesibilidad a materiales en el laboratorio. 
 *4093
   - El creador del NANDulator actualizó en su forum que distintos 4093 creaban resultados variados. Dependiendo de la empresa del chip, el circuito podía o no funcionar a corde a lo que tenia pensado el creador. Uno de los IC's que no funcionaba supuestamente es el CD4093 de Texas Instruments, que es el que utilizamos para el synth. De igual manera estamos contentos con el resultado, nos interesaría averiguar las variabilidades en sonido intercambiando el chip con otros de distintas empresas.
 
@@ -103,34 +102,7 @@ Rehicimos y probamos de todo con el circuito en la protoboard pero nunca nos res
 
 ## Modificaciones realizadas a los circuitos originales
 
-Al hablar como grupo sobre lo que queríamos hacer, pensamos en distintos synths y nos interesó mucho hacer uno que lograra producír sonidos más parecidos al noise (Esto porque escuchamos a algunos artistas del genero noise/drone). Al buscar "Pink/Brown/Blue/Drone noise generator" en internet, encontramos uno en un forum de electronica y circuitos llamado "https://electro-music.com". El circuito utilizaba componentes que ya aprendímos en clase pero permitía hacer nuevos sonidos.
-
-El "NANDulator - PHOBoS" utiliza un 4093* (4 Schmitt Triggers) para generar las oscilaciones. Dentro del esquemático en la pagina no muestran como amplificar la señal para que se pueda escuchar, por lo que decidimos añadir un LM386, conectando el pin 4 del 4093 al pin 3 del LM386. Eso si al utilizar el synth, sentimos que faltaba algo para poder controlar el volumen además de tener un filtro, por lo que añadimos un este circuito de "https://generalguitargadgets.com" entre la salida del 4093 y el AMP (Pin 4 del 4093 a la barra del filtro donde se encuentra el R6 y C6). Consiste en 2 filtros R/C y un linear pot (todo conectado a un potenciómetro) que permite controlar el Dry/Wet del filtro, actuando como un EQ modular. 
-
-En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin 4-5-6 cambiamos el potenciómetro de 500k a 100k. El condensador conectado al pin 12 usamos un condensador de 47nf en vez de 470nf. Todos los diodos los remplazamos por diodos zener. En el filtro, cambiamos la resistencia de 39k por una de 47k y el potenciómetro de 100K a uno de 1M, más que nada por la accesibilidad a materiales en el laboratorio. Intentamos usar 
-
-*4093
-  - El creador del NANDulator actualizó en su forum que distintos 4093 creaban resultados variados. Dependiendo de la empresa del chip, el circuito podía o no funcionar a corde a lo que tenia pensado el creador. Uno de los IC's que no funcionaba supuestamente es el CD4093 de Texas Instruments, que es el que utilizamos para el synth. De igual manera estamos contentos con el resultado, nos interesaría averiguar las variabilidades en sonido intercambiando el chip con otros de distintas empresas.
-
-![Esquemático Original del NANDulator](./imagenes/nandulator.png)
-- Esquemático Original del NANDulator
-
-![Esquemático Original del Big Muff](./imagenes/big-muff.png)
-- Esquemático Original del Big Muff
-
-![Esquemático final del proyecto](./imagenes/brumarcas-ulator-esquematico.jpg)
-- Esquemático final del proyecto
-
-https://github.com/user-attachments/assets/e0853da8-d528-4f0e-9732-b4b83ad4852e
-
-https://github.com/user-attachments/assets/4a88d2e4-f8b4-4142-862d-35357690364e
-
-
-https://github.com/user-attachments/assets/fe5147e6-22c0-429e-88b1-f8da4cb4dce4
-
-
-![Esquemático Original del NANDulator](./imagenes/nandulatorplanosoriginales.gif)
-
+En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin 4-5-6 cambiamos el potenciómetro de 500k a 100k. El condensador conectado al pin 12 usamos un condensador de 47nf en vez de 470nf. Todos los diodos los remplazamos por diodos zener. En el filtro, cambiamos la resistencia de 39k por una de 47k y el potenciómetro de 100K a uno de 1M, más que nada por la accesibilidad a materiales en el laboratorio.
 
 
 ## Carcasas de cartón
