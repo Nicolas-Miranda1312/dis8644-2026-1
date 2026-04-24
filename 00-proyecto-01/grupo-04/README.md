@@ -30,7 +30,7 @@ durante las clases no tuvimos problemas con el circuito del 555, pero al momento
 
 el chip 4017 fue el único con el cual no tuvimos problemas, ya que cuando lo conectamos al 555 para probar si realmente estaba funcionando como secuenciador con los LEDs conectados, funcionó todo a la perfección y fue hermoso.
 
-adjuntamos link de registro de chip 4017 funcionando: <https://youtu.be/dC0rdd23vHk>
++ adjuntamos link de registro de chip 4017 funcionando: <https://youtu.be/dC0rdd23vHk>
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 ## proceso y resultados de osciladores y amplificador
@@ -39,11 +39,15 @@ incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
 con los chips que más tuvimos problemas fueron el 4093 y el 386, ya que al inicio, cuando los armamos por primera vez y los conectamos al parlante para ver si sonaba, no pasó nada. como no entendíamos cuál era el problema, fuimos a buscar ayuda con Misa y nos explicó que deberíamos probar de manera independiente cada chip antes de conectar todo y probar con el parlante, por lo que hicimos exactamente eso. cuando probamos si funcionaba el 386, seguimos el esquemático que hizo Misa en la pizarra y no logramos ver que funcionara, por lo que pedimos ayuda a nuestros compañeros Vania y Nicolás que estaban junto a nosotros en el Laboratorio de Interacción Digital. Vania se acercó a ver nuestros circuitos, pero no pudo quedarse por mucho tiempo ya que tenía cosas que hacer, por lo que Nicolás se quedó con nosotros durante horas rehaciendo todos los circuitos y comparando nuestro trabajo con el de ellos para lograr identificar el problema, hasta que horas después logramos que sonara, pero de manera muy sutil gracias a la magia de nuestro compañero Nicolás, es decir que utilizamos las mismas conexiones que nuestro compañero Nicolás.
 
-AÑADIR VIDEO DEL SINTE FUNCIONANDO DE MANERA DÉBIL LOL
+![imagenes](./imagenes/sinte-sin-funcionar.jpeg)
+
++ adjuntamos video de nuestro sinte funcionando de forma débil: <https://youtube.com/shorts/CgsAztNBeqE?feature=share>
 
 cuando volvimos al LID, Aarón nos dijo que probáramos los potenciómetros que se encontraban en el circuito del chip 4093 de manera independiente, pero no entendimos mucho, así que nuestra compañera Cami nos ayudó a entender cómo se tenían que intercambiar los cables que estaban en cada potenciómetro para poder probar el sonido de cada uno de manera independiente. cuando lo hicimos, nos sorprendió que todos sonaban, pero al momento de conectar todo dejaban de funcionar. como teníamos clases, tuvimos que abandonar el trabajo por unas horas y nuestros compañeros Vania y Nicolás se volvieron a ofrecer para revisar nuestro trabajo, ya que el de ellos ya estaba listo, así que les agradecimos el apoyo y les dejamos nuestro trabajo mientras nosotros estábamos ausentes. cuando volvimos, nuestros compañeros nos informaron que el sintetizador finalmente estaba sonando, pero que tal vez sería buena idea cambiar el valor de los capacitores que teníamos en cada potenciómetro del 4093, ya que teníamos muchos condensadores de alto valor (10 uF, 100 uF) y esto afectaba al sonido que emitía nuestro sintetizador, por lo que decidimos cambiarlos todos a capacitores de 1 uF.
 
-AÑADIR VIDEO DEL SINTE FUNCIONANDO PLIS
+![imgenes](./imagenes/sintetizador-sin-caja.jpeg)
+
++ adjuntamos video de nuestro sintetizador funcionando: <https://youtu.be/AOrCcJQTMjA>
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
