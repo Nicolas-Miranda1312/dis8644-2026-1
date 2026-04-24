@@ -40,11 +40,21 @@ Las conexiones clave para estos son los “Mix” en el 4093, que salen de la co
 
 ## modificaciones realizadas a los circuitos originales
 
+Se realizo una modificación a los potenciómetros y las Led, debido a que estos al estar conectadas directamente a las protoboards limitaban la movilidad y adaptabilidad hacia la carcasa, reduciendo además el espacio que había en las protoboard.
+
+Se uso estaño para soldar las partes; cabeza de un cable dupont directamente conectada a la parte positiva del Led, y mismo proceso (con un cable diferente) a la pata del lado negativo, conectando cada cable con su respectiva carga (Positivo+ -Negativo).
+
+Ademas se repitió el proceso de soldar con los potenciómetros, en este caso solo se utilizarán también 2 cables, ya que solo utilizaremos la 2 de los 3 pines, el pin 2 (Output) y 3 (GND).
+
+![sintetizador](./imagenes/sintetizador2.jpeg)
+
 ![ledverde](./imagenes/ledverde.jpeg)
 
 ![potenciometro](./imagenes/potenciometro.jpeg)
 
-![sintetizador](./imagenes/sintetizador2.jpeg)
+![antes](./imagenes/antes.jpeg)
+
+![despues](./imagenes/despues.jpeg)
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
