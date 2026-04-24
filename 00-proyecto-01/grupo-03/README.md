@@ -42,6 +42,8 @@ Las conexiones clave para estos son los “Mix” en el 4093, que salen de la co
 
 ![LedVerde](./imagenes/LedVerde.jpeg)
 
+![Potenciometro](./imagenes/Potenciometro.jpeg)
+
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
 incluir modificaciones en posición, chips, parámetros, valores, etc.
