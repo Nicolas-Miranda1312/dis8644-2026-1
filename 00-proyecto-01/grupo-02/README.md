@@ -105,6 +105,8 @@ Finalmente, la señal llega al LM386, que es el amplificador de audio del circui
 
 Terminamos usando el condensador de 100 µF  ya que era el que se escuchaba mejor y más fuerte.
 
+<img src="./imagenes/esquema-cuadro.svg" width="1100">
+
 ## modificaciones realizadas a los circuitos originales
 
 Hicimos algunos cambios para que el circuito funcionara mejor. Primero, quitamos los LEDs del 4017, ya que consumían demasiada corriente y hacían que el sonido se escuchara muy bajo. Al sacarlos, el sonido se escuchó más fuerte, también fue necesario quitar sus resistencias.
@@ -133,6 +135,9 @@ Por último, soldamos los potenciómetros a cables para poder alejarlos del circ
 ### Potenciómetro después (soldado)
 
 ![Potenciometros soldados](./imagenes/potenciometro-soldado.jpeg)
+
+![Esquematico](./imagenes/esquematico.jpg)
+
 
 ## carcasas de cartón
 
