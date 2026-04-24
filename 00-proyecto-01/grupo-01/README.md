@@ -104,25 +104,22 @@ incluir modificaciones en posición, chips, parámetros, valores, etc.
 
 + Orden
 
-Dividmos en 3 cajas el synth. 
-
-
+Dividimos en 3 cajas el synth. 
 Una para el circuito con el chip 386 la cuál corresponde a una caja pequeña debido a que tenía menos componentes y estaba desarrollada en una protoboard miniatura. 
-Para el circuito con el chip 4093 usamos una caja exageradamente grande, con la intensíon de que fuera así, además considerando que usamos una protoboard larga debido a su alta cantidad de componentes era la opción más adecuada, esta caja también es de donde se conecta la batería.
+Para el circuito con el chip 4093 usamos una caja exageradamente grande, con la intención de que fuera así, además considerando que usamos una protoboard larga debido a su alta cantidad de componentes era la opción más adecuada, esta caja también es de donde se conecta la batería.
 La ultima caja es la más pequeña ya que lleva únicamente el parlante, por lo cual no es necesario mucho espacio.
 
 + Estética y montaje
 
-Desde un comienzo planeabamos desarrollar el proyecto en unas cajas más grandes de lo necesario.
-Nuestro desde un inicio fue que el parlante estuviera colgando, después llegamos a una solución para nuestra porpuesta la cual fue colgarlo desde el techo con hilo de pesca.
+Desde un comienzo planeábamos desarrollar el proyecto en unas cajas más grandes de lo necesario.
+Desde un principio queríamos que nuestro distintivo fuera que el parlante estuviera colgando, después llegamos a una solución para nuestra propuesta la cual fue colgarlo desde el techo con hilo de pesca.
 
-Para decorar las cajas optamos por un diseño o estética inclinada al brutalismo, ya que armoniza muy bien con el sonido que produce nuestro sintetizador. Para lograr el acabado deseado recubrimos todas las cajas con cinta americana y pegamos unas etiquetas imparejas a propósito.
+Para decorar las cajas optamos por un diseño o estética inclinada al brutalismo, ya que armoniza muy bien con el sonido que produce nuestro sintetizador. Para lograr el acabado deseado recubrimos todas las cajas con cinta americana y pegamos unas etiquetas asimétricas a propósito.
 
 + Alternativas
 
 Otra propuesta para el recubrimiento de las cajas fueron pegar stickers por toda la caja al punto de sobre ponerlos, pero por tema de presupuesto no nos convenía.
 También consideramos pegarle hojas de diario o cartulina. Que luego se descartó para usar la cinta americana.
-
 
 **CARTON DE DESECHOS, CINTA GAFFER COMO FORMA DE ACERCARSE A LAS CARCASAS DE ALUMINIO EN LAS QUE SUELEN ESTAR LOS EFECTOS MODULARES Y PERILLAS A LO LOCO/PARLANTE COLGANDO PORQUE QUEREMOS SALIR UN POCO DE LO COMODO(?) O CONVENIENTE(???)**
 
