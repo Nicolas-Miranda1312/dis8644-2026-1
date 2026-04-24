@@ -36,7 +36,6 @@ el chip 4017 fue el único con el cual no tuvimos problemas, ya que cuando lo co
 
 + adjuntamos link de registro de chip 4017 funcionando: <https://youtu.be/dC0rdd23vHk>
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 ## proceso y resultados de osciladores y amplificador
 
 ### CD4093 y LM386 
@@ -56,8 +55,6 @@ cuando volvimos al LID, Aarón nos dijo que probáramos los potenciómetros que 
 
 + adjuntamos video de nuestro sintetizador funcionando: <https://youtu.be/AOrCcJQTMjA>
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
-
 ## modificaciones realizadas a los circuitos originales
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
@@ -66,7 +63,7 @@ incluir modificaciones en posición, chips, parámetros, valores, etc.
 
 ## carcasas de cartón
 
-para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pegamento (uhu) y cinta americana. decidimos diseñar un archivo en rhino para facilitar el trabajo y realizar el corte en láser, esto nos permitió enfocarnos mucho más en el circuito de nuestro proyecto. nos centramos en una estructura simple de forma rectangular, tomando como referente los sintetizadores del laboratorio de interacción digital.
+para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pegamento (uhu), cinta americana y masking-tape azul. decidimos diseñar un archivo en rhino para facilitar el trabajo y realizar el corte en láser, esto nos permitió enfocarnos mucho más en el circuito de nuestro proyecto. nos centramos en una estructura simple de forma rectangular, tomando como referente los sintetizadores del laboratorio de interacción digital.
 
 ### la caja se diagramó por caras:
 + **cara superior:** contiene el sintetizador, el chip **4093** con los cuatro potenciómetros (**B2, B3, B4 y B5**), el clock generator, el chip **555** con el potenciómetro **B1**, un LED y el parlante para la salida de sonido.
