@@ -6,17 +6,17 @@
 * Nicolás Miranda / [Nicolás Miranda](https://github.com/disenoUDP/dis8644-2026-1/tree/main/19-Nicolas-Miranda1312)
 * Vania Paredes / [Vania paredes](https://github.com/disenoUDP/dis8644-2026-1/tree/main/25-paredesvania)
 
-## La caja 
+## La caja
 
 La caja es un dispositivo de experimentación sonora diseñado para desafiar lo predecible a través de un ritmo secuencial. Nuestro objetivo, no es buscar una armonía tradicional, más bien propone una exploración pura del ruido, donde una pulsación constante se convierte en el panel de intervención directa con el usuario. Visualmente, el artefacto adopta una estética de honestidad industrial exponiendo parte de sus "tripas" de cables. La estructura de cartón se intervino con perforaciones inspiradas en la geometría del píxel, funciona también como una pantalla donde se puede ver la luz rítmica del interior.
 
-El ciclo del sonido comienza con un chip 555 que marca el pulso (clock), el cual es distribuido por un contador 4017 en cuatro pasos secuenciales que se activan de forma sucesiva. Posteriormente, el integrado 4093 entra para configurar el carácter del sonido como sintetizador (mediante la manipulación de resistencias y condensadores), se generan ondas cuadradas que permiten al usuario deformar texturas sonoras hasta alcanzar una distorsión caótica. 
+El ciclo del sonido comienza con un chip 555 que marca el pulso (clock), el cual es distribuido por un contador 4017 en cuatro pasos secuenciales que se activan de forma sucesiva. Posteriormente, el integrado 4093 entra para configurar el carácter del sonido como sintetizador (mediante la manipulación de resistencias y condensadores), se generan ondas cuadradas que permiten al usuario deformar texturas sonoras hasta alcanzar una distorsión caótica.
 
-La secuencia se percibe dinámica, produciendo sonidos agudos, nerviosos y repetitivos. Su sonoridad transita entre una alarma insistente y la señal errática de una nave espacial, creando momentos de tensión y espacios de silencio que rompen los patrones creados. 
+La secuencia se percibe dinámica, produciendo sonidos agudos, nerviosos y repetitivos. Su sonoridad transita entre una alarma insistente y la señal errática de una nave espacial, creando momentos de tensión y espacios de silencio que rompen los patrones creados.
 
 [![final](./imagenes/la-caja.png)](https://youtube.com/shorts/fcjKkdh8bFI?feature=share)
 
-## Circuito base 
+## Circuito base
 
 ![Esquemático de referencia](./imagenes/4pasosviejo.png)
 
@@ -37,7 +37,7 @@ El 4017 es un contador: recibe el pulso del 555 y activa sus salidas una por una
 
 El **HEF4093B** Tiene cuatro puertas NAND con trigger Schmitt. Cada una de esas puertas, conectada con una resistencia y un condensador genera su propia frecuencia de oscilación, básicamente, su propio tono. El CD4017 le dice a cada puerta cuándo sonar dentro de la secuencia.
 
-La señal de audio que sale del 4093 pasa al **LM386**, un amplificador de audio que le da la potencia suficiente para mover un parlante. 
+La señal de audio que sale del 4093 pasa al **LM386**, un amplificador de audio que le da la potencia suficiente para mover un parlante.
 
 ## Proceso y resultados del reloj y secuenciador
 
@@ -64,28 +64,28 @@ Nuestra primera aproximación al uso del chip 4093 se realizó en la sesión 05a
 
 En la sesión-06a a la par que se solucionaban los problemas del reloj y el secuenciador nos dimos cuenta que los potenciómetros estaban afectando a toda la secuencia, en lugar de controlar cada step de forma individual. Y por su parte, el potenciómetro del amplificador (que debe controlar el volumen y la distorsión del audio) hacía que el circuito no sonará, de hecho, había que poner la perilla en un punto muy exacto y no volver a tocarlo para poder generar sonidos.
 
-En base a esos problemas, revisamos distintas opciones de lo que podría estar causando la situación, para ver si tal vez había algo mal conectado o algún componente en mal estado, pero todo se veía bien, así que no entendíamos qué era lo que estaba fallando. 
+En base a esos problemas, revisamos distintas opciones de lo que podría estar causando la situación, para ver si tal vez había algo mal conectado o algún componente en mal estado, pero todo se veía bien, así que no entendíamos qué era lo que estaba fallando.
 
 Pero para la siguiente clase (sesión-06b) cuando volvimos a conectar todo en base a los cambios que mandó misa persiste el problema de que cada potenciómetro estaba afectando toda la secuencia de sonido, en lugar de operar paso a paso como esperábamos. Hacia el final de la clase siguiendo la sugerencia de Misa, se retiraron los LEDs y las resistencias del step 02, lo que permitió corregir el problema. Tras esta modificación, cada step pasó a ser controlado por su propio potenciómetro, logrando un funcionamiento más estable y preciso del sistema.
 
-El resultado final fue un circuito con mejor control individual, mayor claridad en la respuesta sonora y un comportamiento más consistente durante las pruebas. 
+El resultado final fue un circuito con mejor control individual, mayor claridad en la respuesta sonora y un comportamiento más consistente durante las pruebas.
 
-Al lograr un buen resultado base del sintetizador comenzamos nuestra fase exploratoria para buscar los sonidos que nos gustará más como grupo, por lo que comenzamos a  jugar con el cambio de condensadores. 
+Al lograr un buen resultado base del sintetizador comenzamos nuestra fase exploratoria para buscar los sonidos que nos gustará más como grupo, por lo que comenzamos a  jugar con el cambio de condensadores.
 
 ![trabajo en clase sesion-06b](./imagenes/sesion06b.png)
 
 ## Modificaciones realizadas a los circuitos originales
 
 Cuando empezamos a construir, usamos como referencia el esquemático original `555_4017_4093_Synth` diseñado por Misa. Ese circuito ya era funcional, nuestro trabajo fue entenderlo, armarlo, y después preguntarnos qué queríamos que fuera diferente.
- 
+
 ![Esquemático de referencia](./imagenes/4pasosnuevo.png)
- 
+
 Las modificaciones que terminamos haciendo no fueron todas planeadas desde el inicio, algunas las descubrimos probando y otras surgieron de errores.
 
 ### Modificación 1 - condensadores de los osciladores
- 
+
 **Original:** los cuatro osciladores del 4093 (U1A, U1B, U1C, U1D) usaban condensadores de **1µF** (C5, C6, C3, C4) con potenciómetros de 100kΩ.
- 
+
 **Nuestro proceso:** Mantuvimos el 1µF como punto de partida pero experimentamos con distintos valores para encontrar el rango de frecuencias que buscábamos.  
 
 El circuito terminó con una combinación:
@@ -96,44 +96,44 @@ El circuito terminó con una combinación:
 | STEP2 (U3B) | C6 | 4.7µF | Tono más grave |
 | STEP3 (U3C) | C3 | 1µF | Tono medio-agudo |
 | STEP4 (U3D) | C4 | 0.47µF | Tono más agudo |
- 
-No llegamos directamente a esos valores de condensadores, fuimos probando de a poco. Probamos con 10, 4.7, 0.22, 0.47, 33 y 22µF, en cada paso escuchamos el resultado y decidimos si queríamos ir más arriba o más abajo en frecuencia. 
+
+No llegamos directamente a esos valores de condensadores, fuimos probando de a poco. Probamos con 10, 4.7, 0.22, 0.47, 33 y 22µF, en cada paso escuchamos el resultado y decidimos si queríamos ir más arriba o más abajo en frecuencia.
 
 Con C = 0.47µF y R = 100kΩ la frecuencia sube considerablemente. Con C = 4.7µF baja. Tener valores distintos en cada paso hace que la secuencia no sea monótona, con eso logramos que cada uno de los cuatro pasos tenga su propio carácter de tono.
- 
-### Modificación 2 — interruptor de encendido 
- 
+
+### Modificación 2 — interruptor de encendido
+
 **Original:** El circuito de referencia no tiene interruptor físico, para apagarlo y prenderlo había que desconectar la batería directamente.
- 
+
 **Nuestro circuito:** Se incorporó un **interruptor** al sistema para controlar la alimentación del circuito. La entrada del switch fue conectada a los **9V** provenientes de la batería, mientras que la salida se conectó a la línea de **VCC**, permitiendo encender y apagar el circuito de forma controlada sin desconectar la fuente de energía.
-El **GND** se conectó de forma directa desde la batería al circuito, sin pasar por el interruptor. 
+El **GND** se conectó de forma directa desde la batería al circuito, sin pasar por el interruptor.
 
 ### Modificación 3 — segundo NE555 para luces decorativas
- 
+
 **Original:** el circuito de referencia usa **un solo NE555** (U1) como generador de reloj para el secuenciador. Nada más.
- 
+
 **Nuestro circuito:** agregamos un **segundo NE555** (U5) independiente del circuito de audio, dedicado únicamente a hacer parpadear LEDs decorativos visibles desde afuera de la carcasa. Tiene un potenciómetro para controlar su frecuencia y no interactúa con el sonido. Lo único que comparte con el resto del circuito es la alimentación: está conectado al mismo VCC que pasa por el interruptor, así que cuando enciendes *La Caja*, las luces también se encienden. Cuando la apagas, todo para junto.
- 
+
 Es una decisión puramente estética. Queríamos que la caja tuviera vida propia visible desde afuera, que se notara que algo estaba pasando adentro sin necesidad de escucharla.
 
 ## Carcasas de cartón
 
-La carcasa de *La Caja* está hecha de **cartón corrugado de desecho**, caja que rescatamos de un filamento de PLA. 
+La carcasa de *La Caja* está hecha de **cartón corrugado de desecho**, caja que rescatamos de un filamento de PLA.
 
 ### Diseño  
 
-El diseño de la carcasa de La Caja se basa en una estética de “honestidad constructiva”, donde la estructura del cartón adopta un enfoque industrial (estilo industrial) que deja a la vista ciertas partes de la complejidad interna de los cables por medio de unos pocos calados que representan la geometría del píxel, todo esto acompañado de costura de tripas electrónicas (cables). 
+El diseño de la carcasa de La Caja se basa en una estética de “honestidad constructiva”, donde la estructura del cartón adopta un enfoque industrial (estilo industrial: "forma de celebrar la funcionalidad y la belleza de los materiales, utiliza los materiales estructurales como elementos decorativos y estéticos") que deja a la vista ciertas partes de la complejidad interna de los cables por medio de unos pocos calados que representan la geometría del píxel, todo esto acompañado de costura de tripas electrónicas (cables).
 
 ![Vista exterior con todos los componentes instalados](./imagenes/carcasa-exterior.png)
 
 ### Proceso decorativo
 
-Al ser una caja ya existente nuestra idea era hacerlo todo a mano (no utilizar por ejemplo corte láser para los agujeros de los componentes) por lo que parte de nuestros desafíos fue cortar el cartón con exactitud ya que por ejemplo los agujeros para los potenciómetros tienen que ser del tamaño justo, sí quedan muy grandes se mueven, si quedan muy chicos no entran, la de los pixeles y el agujero para el parlante lo ideal era que quedara con muy buen oficio por lo que terminamos usando mucha paciencia. 
+Al ser una caja ya existente nuestra idea era hacerlo todo a mano (no utilizar por ejemplo corte láser para los agujeros de los componentes) por lo que parte de nuestros desafíos fue cortar el cartón con exactitud ya que por ejemplo los agujeros para los potenciómetros tienen que ser del tamaño justo, sí quedan muy grandes se mueven, si quedan muy chicos no entran, la de los pixeles y el agujero para el parlante lo ideal era que quedara con muy buen oficio por lo que terminamos usando mucha paciencia.
 
-Ocupamos también papel celofán que se pegó con masking tape por el interior al igual que los cables que fueron reforzados con silicona caliente para mayor fijación. 
+Ocupamos también papel celofán que se pegó con masking tape por el interior al igual que los cables que fueron reforzados con silicona caliente para mayor fijación.
 
 ### Dónde pusimos cada cosa y por qué
- 
+
 | Componente | Ubicación | Por qué ahí |
 |------------|-----------|-------------|
 | Potenciómetro de tempo | Panel superior, izquierda | Es el control principal, queríamos que estuviera a mano porque la velocidad era una modificación interesante con la cual interactuar |
@@ -142,14 +142,14 @@ Ocupamos también papel celofán que se pegó con masking tape por el interior a
 | LEDs x4 | Panel frontal, en cada pixel| Para ver los colores mientras suena |
 | Parlante | Panel trasero | Que no apunte directo hacia quien escucha ya que el sonido puede sonar algo fuerte o muy agudo lo que quizás puede ser molesto si se está muy cerca|
 | Batería 9V | Interior, base | Que sea fácil moverla, sacarla y ponerla |
- 
+
 ![Vista interior del circuito montado](./imagenes/interior01.png)
 ![Vista interior del circuito montado parte 2](./imagenes/interior02.png)
- 
+
 ## Interconexión entre módulos
 
 Los tres módulos se conectan en cadena, de izquierda a derecha:
- 
+
 ```
 [NE555]  →  [CD4017]  →  [HEF4093B]  →  [LM386]  →  [Parlante]
 reloj      secuencia    osciladores    amplificador
@@ -162,9 +162,9 @@ reloj      secuencia    osciladores    amplificador
 | HEF4093B (salidas) | Señal de audio | LM386 (pin 3) | Entrada de audio |
 | LM386 (pin 5) | Audio amplificado | Parlante | Sale como sonido |
 | Batería 9V | Alimentación | Todo | Energía |
- 
+
 > Ver el esquemático KiCad adjunto para el diagrama completo de conexiones.
- 
+
 ## Resultados finales
 
 La caja es un dispositivo de experimentación sonora que se activa mediante un interruptor de encendido y apagado, funciona a partir de un ritmo secuencial constante que el usuario puede intervenir directamente. Cuenta con tres potenciómetros: dos permiten modificar las frecuencias del sonido, alterando su carácter y textura, mientras que el tercero controla la velocidad del ritmo. En su interior, luces osciladoras que se encienden y apagan proyectándose hacia el exterior a través de las ventanas “píxeles” de la estructura. Estas luces refuerzan la experiencia rítmica y visual, haciendo visible el comportamiento sonoro desde fuera.
@@ -203,7 +203,7 @@ flowchart TD
     style OFF fill:#888780,color:#fff
 ```
 
-[![final](./imagenes/la-caja.png)]((https://youtube.com/shorts/2OlexzJCbLg?feature=share))
+[![final](./imagenes/la-caja.png)](https://youtube.com/shorts/2OlexzJCbLg?feature=share)
 ![final](./imagenes/la-caja1.png)
 ![final](./imagenes/la-caja2.png)
 ![Esquemático](./imagenes/esq-la-caja.png)
@@ -218,7 +218,7 @@ Un error pequeño puede escalar y generar problemas mayores en el sistema comple
 Mantener un orden claro en las conexiones facilita el armado, la revisión y la detección de errores.
 Mantener el orden en el área de trabajo es fundamental para evitar errores, facilitar el armado del circuito y agilizar la detección de fallas.
 
-### Errores 
+### Errores
 
 * El circuito no sonaba correctamente debido a una conexión errónea del pin 9 del 4017 al voltaje, este pin no debía estar conectado a nada.
 * Se quemaron tres chips 555 a causa de conexiones incorrectas.
@@ -234,13 +234,13 @@ Mantener el orden en el área de trabajo es fundamental para evitar errores, fac
 ![Errores](./imagenes/error.jpg)
 ![Errores](./imagenes/reconectando.jpg)
 
-#### Sonido antiguo v/s sonido actual 
+#### Sonido antiguo v/s sonido actual
 
 En la sesión 06b logramos obtener un sonido similar al de un arcade antiguo, lo que nos motivó a tomar esa referencia como objetivo para la entrega final. Sin embargo, durante la sesión 07a, debido a ciertas modificaciones en el circuito, no fue posible recuperar ese sonido inicial. Posteriormente, con la ayuda de Sebastián Sáez en un trabajo posterior a la sesión, logramos encontrar una configuración sonora que nuevamente llamó nuestra atención y se alineó con la propuesta que buscabamos.
 
-[![antiguo](./imagenes/antiguo.jpg)]((https://youtube.com/shorts/4vf9a5yF5DE))
-[![antiguo](./imagenes/antiguo.png)]((https://youtube.com/shorts/4vf9a5yF5DE))
-[![final](./imagenes/la-caja1.png)]((https://youtube.com/shorts/2OlexzJCbLg?feature=share))
+[![antiguo](./imagenes/antiguo.jpg)](https://youtube.com/shorts/yy7ecwrgO0s)
+[![antiguo](./imagenes/antiguo.png)](https://youtube.com/shorts/4vf9a5yF5DE)
+[![final](./imagenes/la-caja1.png)](https://youtube.com/shorts/2OlexzJCbLg?feature=share)
 
 ## Conclusiones
 

@@ -86,11 +86,9 @@ Los colores de los LEDs utilizados fueron naranja, rojo, verde y blanco. Con el 
 
 ## resultados finales
 
-Como resultado final para esta primera parte del proyecto, tenemos un sintetizador el cual su circuito esta dentro de una caja de cartón reciclada, en donde en la parte superior lo que primero vemos es el parlante, luego a sus lados dos potenciómetros y por el frente de este parlante tenemos las LEDS que van prendiendose mediante el patrón de sonido que podemos crear. En la parte lateral tenemos 4 potenciómetros, quienes son los responsables de crear el ritmo que deseemos. 
+Como resultado final para esta primera parte del proyecto, tenemos un sintetizador el cual su circuito esta dentro de una caja de cartón reciclada, en donde en la parte superior lo que primero vemos es el parlante, luego a sus lados dos potenciómetros y por el frente de este parlante tenemos las LEDS que van prendiendose mediante el patrón de sonido que podemos crear. En la parte lateral tenemos 4 potenciómetros, quienes son los responsables de crear el ritmo que deseemos.
 
-
-https://github.com/user-attachments/assets/75483a74-e163-4ad5-8932-8e0045d4af67
-
+<https://github.com/user-attachments/assets/75483a74-e163-4ad5-8932-8e0045d4af67>
 
 ![imagenresultadofinal](./imagenes/resultadofinal.jpg)
 

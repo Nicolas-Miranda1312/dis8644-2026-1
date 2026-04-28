@@ -27,7 +27,7 @@ A diferencia de un comparador común que tiene un solo umbral, el Schmitt Trigge
 ![Chip](./imagenes/4017.png)
 
 ### hacemos ruido
-En la clase missa nos enseño la coneccion entre el chip 4017 (secuenciador) y el 4093 (sintetizador). que sirve para generar ritmos o melodias sencillas.
+En la clase missa nos enseño la conexión entre el chip 4017 (secuenciador) y el 4093 (sintetizador). que sirve para generar ritmos o melodias sencillas.
 
 ![Imagen pizarra](./imagenes/ruido.jpg)
 
