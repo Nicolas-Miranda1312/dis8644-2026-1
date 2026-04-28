@@ -17,6 +17,12 @@ En la clase nos estan enseñando a usar KiCad.
   7. Adornar
  
 
-+ Apuntes
+ ### Apuntes
 
-  
++ Las diferencias de los componentes y sus letras que les siguen como por ejemplo el chip ne555P que es el que estamos usando, tiene su variantes como el 555D
++ Para añadir componente se tiene que seleccionar en la barra la categoría de add symbols, después en la barra de búsqueda escribes el nombre del componente que quieras usar.
++ Existen diferentes formas de expresar los símbolos de los componentes, usualmente usamos el modelo europeo.
++ Funciona muy parecido al AutoCad
++ Para hacer anotaciones con texto, se usa el comando letra T o seleccionarlo en la barra de la izquierda.
++ Para hacer conexiones con componentes solo se presiona una vez sobre el final de este hacia el final del otro.
++ el VCC y el GND se busca también en add symbol
