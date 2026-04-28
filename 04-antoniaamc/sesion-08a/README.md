@@ -28,7 +28,7 @@ FALTA: Terminar esquemáticos, revisar la cápsula de la clase, subir capturas y
 ---
 
 ## Dimensiones y estándares  
-Atención con la búsqueda y uso de componentes, hay que prestar especial atención a las dimensiones físicas de uno. En general no es necesario buscar componentes con capacidades de voltaje demasiado altas (perdida de plata, mejor quedarse con lo necesario. A menos que...)
+!!! ***Atención*** con la búsqueda y uso de componentes, hay que prestar **especial atención** a las dimensiones físicas de uno. En general no es necesario buscar componentes con capacidades de voltaje demasiado altas (perdida de plata, mejor quedarse con lo necesario. A menos que...)
 
 Para encontrar dimensiones exactas, recomendación práctica:
 
