@@ -24,5 +24,7 @@ Además, estos esquemáticos se pueden mandar a fabricar y soldar en CHINAAAAA, 
 
 ## 2.	Aprendimos a soldar.  
 
+![bocina soldada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-07a/imagenes/bocinasoldada.jpeg)
+
 ## 3.	Trabajo en Solemne 01 el cual fracaso.  
 ## 4.	Salvación de la Solemne 01 y trabajo asincrónico a la clase para terminar detalles.
